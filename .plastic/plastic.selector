@@ -1,0 +1,4 @@
+repository "prototype_3@yyami@cloud"
+  path "/"
+    br "/main"
+    co "/main"
